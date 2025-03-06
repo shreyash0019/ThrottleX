@@ -24,3 +24,5 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/shreyash0019/ThrottleX.git
+```
+Run index.html in browser.
