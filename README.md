@@ -14,6 +14,7 @@ ThrottleX is an interactive speedometer that plays a rev sound when the user cli
 
 ## How to Use
 
+
 1. Clone this repository.
 2. Open `index.html` in your browser.
 3. Click on the screen to start the speedometer animation and hear the rev sound.
